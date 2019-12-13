@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Kashdeep_John_COMP304Lab6Ex2'
